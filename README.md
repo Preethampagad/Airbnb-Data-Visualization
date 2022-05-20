@@ -6,4 +6,5 @@ Performed a Data Visualization on Seattle Airbnb Open data taken from kaggle and
 3) Price by Zip code
 4) Revenue for Year
 5) Distinct Count of Bedroom Listings
+
 Airbnb Tableau Dashboard: [Click here](https://public.tableau.com/app/profile/preetham.m.pagad/viz/AirbnbTableauProject_16489233011640/Dashboard1)
