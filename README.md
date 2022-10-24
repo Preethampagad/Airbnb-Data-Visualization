@@ -10,4 +10,4 @@
 * Revenue was increased by 108.4% by the end of the year 2016
 * Average price was 208$ was observed in the zip code 98134
 
-[Airbnb Tableau Dashboard](https://public.tableau.com/app/profile/preetham.m.pagad/viz/AirbnbTableauProject_16489233011640/Dashboard1)
+[Airbnb Tableau Dashboard](https://public.tableau.com/app/profile/preetham.m.pagad/viz/AirbnbDataVisualization_16636000169660/Dashboard1)
